@@ -1,6 +1,6 @@
 # EducaAccessControl
 
-## Objetivo do Projeto
+## Objetivo do Projetoo
 
 Este projeto tem como objetivo desenvolver um aplicativo que facilita o gerenciamento de alunos, professores e fornecedores na universidade. Ele abrange processos de cadastro, validação de documentos e gestão de pagamentos.
 
@@ -106,6 +106,7 @@ O aplicativo EducaAccessControl visa otimizar a administração de cadastros e v
 #### Fluxo Professor
 
 #### Fluxo Aluno
+![Fluxo de Pagamento](Documentacao/CadastroAluno.png)
 
 ![Fluxo de Pagamento](Documentacao/PagamentoAluno.png)
 
